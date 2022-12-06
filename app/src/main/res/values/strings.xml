@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Player Streaming Example</string>
+    <string name="albumimage">Album image</string>
+    <string name="title">Radio El Ejemplo 98.5</string>
+    <string name="boton_reproducir">Boton Reproducir</string>
+    <string name="urlRadio">http://serverssl.deradios.stream:8084/</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="playt">Play</string>
+    <string name="pauset">Pause</string>
+</resources>

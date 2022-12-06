@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reproductor Radio Ejemplo</string>
+    <string name="albumimage">Imagen del albun</string>
+    <string name="title">Radio La Voz 98.5</string>
+    <string name="boton_reproducir">Boton Reproducir</string>
+    <string name="urlRadio">http://serverssl.deradios.stream:8084/</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="playt">Reproducir</string>
+    <string name="pauset">Pausar</string>
+</resources>

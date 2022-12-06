@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="albumimage">albumimage</string>
+    <string name="title">title</string>
+    <string name="boton_reproducir">Boton Reproducir</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+</resources>
